@@ -49,6 +49,9 @@ The study concludes that weather parameters have a minor role in predicting hosp
 - The study focuses on a limited set of weather variables and health conditions, which may not capture the full spectrum of factors affecting hospital admissions and health risks.
 - There is a need for more diverse datasets to validate the models and conclusions across different populations and environments.
 
+## Note:
+The dataset used in this study is private and cannot be published.
+
 ## Contact Information:
 
 - **Corresponding Author:** Samuel G.V. Zirbo
